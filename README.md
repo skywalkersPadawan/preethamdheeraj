@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preetham Dheeraj Chittineni</h1>
-<h3 align="center">I am passionate about Software Engineer(Full-Stack), Data Scienctist and Data Engineer roles</h3>
+<h3 align="center">I am passionate about Software Engineer(Full-Stack), AI/ML Engineer and Data Engineer roles</h3>
 
 - 🔭 I’m currently working in **Red Hat as Software Engineer(Data Operations and Automation)**
 
