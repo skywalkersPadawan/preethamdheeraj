@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preetham Dheeraj Chittineni</h1>
-<h3 align="center">I am passionate about Software Engineer(Full-Stack), AI/ML Developer, Backend Developer</h3>
+<h3 align="center">I am interested in working as Software Engineer(Full-Stack), AI/ML Developer, Backend Developer</h3>
 
 - 🔭 I’m currently working in **Red Hat as a Software Engineer(Backend)**
 
