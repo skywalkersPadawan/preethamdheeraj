@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Preetham</h1>
-<h3 align="center">I am interested in working as Software Engineer(Full-Stack), AI/ML Developer, Backend Developer</h3>
+<h3 align="center">I am interested in working as Software Development Engineer in Web, Mobile and AI&ML domains</h3>
 
-- 🔭 I’m currently working in **Red Hat as a Software Engineer(Backend)**
+- 🔭 I’m currently working in **Red Hat as a Software Development Engineer**
 
 - 👯 I’m looking to collaborate on [Fedora Project](https://getfedora.org/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: chpreetham45@gmail.com</h3>
 <p align="left">
 </p>
 
