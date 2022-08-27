@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preetham</h1>
-<h3 align="center">I am interested in working as Software Development Engineer in Web Technologies</h3>
+<h3 align="center">I am currently working as Software Development Engineer in Web Technologies</h3>
 
 - 🔭 I’m currently working in **Red Hat as a Software Development Engineer**
 
