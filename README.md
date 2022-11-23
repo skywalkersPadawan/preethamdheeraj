@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Preetham</h1>
 <h3 align="center">I am currently working as a Software Development Engineer in Web Technologies</h3>
 
-- 🔭 I’m currently working in **Red Hat as a Software Development Engineer**
+- 🔭 I’m currently working in **Fedora CPE as a Software Development Engineer**
 
 - 👯 I’m looking to collaborate on [Fedora Project](https://getfedora.org/)
 
