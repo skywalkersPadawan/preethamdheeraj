@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in **Fedora CPE as a Software Development Engineer**
 
-- 👯 I’m looking to collaborate on [Fedora Project](https://getfedora.org/)
+- 👯 I’m looking to collaborate on a project that I will announce at a late time
 
 <h3 align="left">Connect with me: chpreetham45@gmail.com</h3>
 <p align="left">
